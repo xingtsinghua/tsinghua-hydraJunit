@@ -4,4 +4,8 @@ SDSHDOFSJDS
 master-cesi
 git-dev
 
-zheli cehsi huoqubiangeng ~IDEAhuoqu biangeng
+fatal: Refusing to fetch into current branch refs/heads/dev of non-bare repository
+is  push?
+
+
+IDEA  xazaigengxin 
