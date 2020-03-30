@@ -5,3 +5,5 @@ master-cesi
 git-dev
 
 fatal: Refusing to fetch into current branch refs/heads/dev of non-bare repository
+
+is  push?
